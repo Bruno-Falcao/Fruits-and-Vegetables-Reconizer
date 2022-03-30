@@ -9,5 +9,5 @@
 
 ``` pip install -r requirements.txt```
 
-## Dataset that I have used is Fruit and Vegetable Image Recognition.
-
+## Dataset that i've used to train the model.
+``` https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition ```
